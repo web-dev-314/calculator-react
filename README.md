@@ -52,20 +52,4 @@ Last step will open http://localhost:3000 to view it in the browser.
 
 👤 **Sarvar Khalimov**
 
-- GitHub: [@SarvarKh](https://github.com/SarvarKh)
-- Twitter: [@KhalimovSarvar](https://twitter.com/KhalimovSarvar)
-- LinkedIn: [@sarvar-khalimov](https://www.linkedin.com/in/sarvar-khalimov)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/SarvarKh/react-calculator/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+- GitHub: [@Alex](https://github.com/RuYiSu314)
