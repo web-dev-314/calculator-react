@@ -21,11 +21,6 @@
 Calculator operations has been tested in various scenarious with Jest Testing Framework.
 Also, all React components have been tested with Snapshot testing.
 
-<div align="center">
-  <img src="screenshots/testing_02.png?raw=true" width="90%" height="auto"/>
-</div>
-
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
